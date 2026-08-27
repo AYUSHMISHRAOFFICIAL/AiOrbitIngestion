@@ -1,0 +1,758 @@
+[
+  {
+    "id": "6a57e55e-622f-5785-b9e6-6b4f1da0889f",
+    "source_id": "e5be04b6-1e62-5ba7-b205-48a5ddc4408a",
+    "target_id": "dc2643ae-cc3d-5141-9927-62e18e9f4aca",
+    "relationship_type": "develops_tool",
+    "confidence": 0.9,
+    "evidence": "GitHub organization owns tool",
+    "evidence_source": "https://api.github.com/repos/CelaDaniel/free-ai-resources-x"
+  },
+  {
+    "id": "f467ecdf-f602-5ef1-92c0-6d216f604544",
+    "source_id": "b345f29a-0155-561f-bd1f-4abb3c9e9c40",
+    "target_id": "50241985-64c5-51b5-9715-1c5fb3c01d0a",
+    "relationship_type": "develops_tool",
+    "confidence": 0.9,
+    "evidence": "GitHub organization owns tool",
+    "evidence_source": "https://api.github.com/repos/turing-machines/mentals-ai"
+  },
+  {
+    "id": "59e465df-621f-5f07-8462-237529b4d2e4",
+    "source_id": "9be57f00-c99b-5945-b08d-8d1e20b87d86",
+    "target_id": "f4038097-d8d0-5503-86b0-85aecae896aa",
+    "relationship_type": "develops_tool",
+    "confidence": 0.9,
+    "evidence": "GitHub organization owns tool",
+    "evidence_source": "https://api.github.com/repos/manuelescobar-dev/LLM-Tools"
+  },
+  {
+    "id": "166afe44-a827-52ba-8ba7-29f9751512ea",
+    "source_id": "d704af10-7ffb-5bef-8cf2-96ff8ce642c4",
+    "target_id": "62b297ae-cdb3-5b06-9ac3-6775b33a68d8",
+    "relationship_type": "develops_tool",
+    "confidence": 0.9,
+    "evidence": "GitHub organization owns tool",
+    "evidence_source": "https://api.github.com/repos/Tzohar/PassLLM"
+  },
+  {
+    "id": "2a62b640-fa45-5d8a-9e28-079ffb7acc52",
+    "source_id": "2e79c829-07b5-56b0-bae2-656c8cf2da18",
+    "target_id": "4cccf308-7983-538b-98fa-bffcb1916590",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2"
+  },
+  {
+    "id": "fb0c0cd9-006c-531c-9581-612192ff122f",
+    "source_id": "0e66f80b-fd97-51bc-b3ad-00be0e4af5eb",
+    "target_id": "012007b8-b818-547e-8141-5dc8340fcd58",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/google-bert/bert-base-uncased"
+  },
+  {
+    "id": "21a103c0-dc57-5720-8c91-d56f2a08b00a",
+    "source_id": "8f991f1f-264b-53c7-8a00-04215b451522",
+    "target_id": "f005b691-86a1-5314-a3fa-2c367c06997d",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/cross-encoder/ms-marco-MiniLM-L6-v2"
+  },
+  {
+    "id": "d8275623-5a98-5312-b41b-6b8a928495d6",
+    "source_id": "33b4aa2f-cde6-5983-b63d-e791eb9e9629",
+    "target_id": "39c5c530-6770-5850-bfb5-fa6255e18e50",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/BAAI/bge-small-en-v1.5"
+  },
+  {
+    "id": "7db47efa-2e3c-5d29-8cb5-961db68be299",
+    "source_id": "2e79c829-07b5-56b0-bae2-656c8cf2da18",
+    "target_id": "591c1aac-3a65-587c-b8ee-fbaa298ff4b5",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  },
+  {
+    "id": "3a3efb8a-67a9-5adc-a011-5a7b0727871f",
+    "source_id": "a428d009-73e9-56dc-a7e1-a781c162656c",
+    "target_id": "5a9fa41c-4bd9-5753-ba69-cbfa83aac803",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/google/electra-base-discriminator"
+  },
+  {
+    "id": "ac625484-7379-5f9a-89cf-3f40176f7b34",
+    "source_id": "33b4aa2f-cde6-5983-b63d-e791eb9e9629",
+    "target_id": "479d7bbf-aa21-5c9a-9e31-e4c3fc8cd263",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/BAAI/bge-m3"
+  },
+  {
+    "id": "156ca707-a068-5c6e-97b5-2640cc48d158",
+    "source_id": "b6900281-bb21-5f85-8191-512d9f86403f",
+    "target_id": "15ca24e4-14d7-51a0-8528-3083c3aeb940",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/amazon/chronos-2"
+  },
+  {
+    "id": "fa9a5b1a-35cd-53bf-b7cf-cae497560ecf",
+    "source_id": "2e79c829-07b5-56b0-bae2-656c8cf2da18",
+    "target_id": "11e45596-514f-5bab-869a-f040a948755d",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2"
+  },
+  {
+    "id": "4abaab26-4d30-5b79-9f29-5c5f45eab938",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "8c303003-8fe2-5434-84f6-7105bbb7b781",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3-0.6B"
+  },
+  {
+    "id": "bc5a8ad8-1eea-532f-93ac-dd6f22d6eb47",
+    "source_id": "9349d2be-4da3-5ba6-aa52-a55f5e54b793",
+    "target_id": "4ec98e92-7965-5639-91a0-7f8071e1004d",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/lpiccinelli/unidepth-v2-vitl14"
+  },
+  {
+    "id": "144c3d5d-5d3e-5158-ba12-df9c67c6420c",
+    "source_id": "777c4c08-d069-5d37-961d-e8346441d468",
+    "target_id": "776fce8f-96fd-5c22-ac59-ea193d3cc0df",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/google-t5/t5-small"
+  },
+  {
+    "id": "a03c4350-e3d6-51aa-a48c-230447e8c06a",
+    "source_id": "c0e0e58c-7e35-5ab0-8852-df31d7125ddf",
+    "target_id": "c0291dfe-8629-5620-ade1-0dc6228c7d44",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/openai/clip-vit-base-patch32"
+  },
+  {
+    "id": "88323d00-d5ed-5860-a636-fb27e7811f73",
+    "source_id": "6d091e19-1f4b-576a-b9f6-ddb5e5dc694d",
+    "target_id": "c856fea0-69e1-518a-b8c2-d5d0dfe683cd",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Comfy-Org/MiniMax-H3"
+  },
+  {
+    "id": "0c59a076-fbfd-5e1b-948f-b0ff92c7b056",
+    "source_id": "7df2fa29-16d9-5cb1-9413-618c2924a1e7",
+    "target_id": "1a0bb4a6-9520-5969-bb1f-b1f9d659dad3",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/FacebookAI/xlm-roberta-base"
+  },
+  {
+    "id": "6d7d09c9-43b4-5f45-89d7-7d79dedbdf33",
+    "source_id": "87355764-79c8-5328-ae8b-bbf3d59c3043",
+    "target_id": "ca76d873-1412-51ac-86d5-f744671276b8",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/timm/mobilenetv3_small_100.lamb_in1k"
+  },
+  {
+    "id": "1a98091e-f8e2-57c9-a24a-548949892b0b",
+    "source_id": "33b4aa2f-cde6-5983-b63d-e791eb9e9629",
+    "target_id": "590d477c-e433-5ba1-bcd3-709c1891f107",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/BAAI/bge-reranker-v2-m3"
+  },
+  {
+    "id": "7d8cf696-d372-5d80-b775-a0b717f16675",
+    "source_id": "23d82c65-8dd6-515f-a35a-e2b80bd828c8",
+    "target_id": "238f9b36-9bda-58ad-9562-e1c18e73a451",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
+  },
+  {
+    "id": "30abfe0e-a017-57b5-8597-9ac5985e4dae",
+    "source_id": "f7d1f20d-2a95-5852-b95b-b243c9e8eac1",
+    "target_id": "0b2bad3a-a45f-569f-b86a-0c8fcc21ab53",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/nomic-ai/nomic-embed-text-v1.5"
+  },
+  {
+    "id": "19b8d0c0-01bc-58ca-bf9f-90d8633094ed",
+    "source_id": "f67ee20b-a235-5cbd-bdf7-ae5f0b19e3b4",
+    "target_id": "2b9283ae-1eef-50fa-8b07-ca18827e1c03",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/openai-community/gpt2"
+  },
+  {
+    "id": "fcc371b9-e29d-5b40-b0c7-508c3428af85",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "c0a17ba3-af46-5ed5-a41b-59f53e4e5d56",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3-8B"
+  },
+  {
+    "id": "798cf7cb-f70c-5104-b658-f29c73bc3699",
+    "source_id": "49abf398-d68b-5355-9ee7-946256ffb8c9",
+    "target_id": "e7236491-a59f-5530-a5ca-867f8fd6c000",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/facebook/opt-125m"
+  },
+  {
+    "id": "070cb179-e6d4-57be-b38c-c11ec8aff96d",
+    "source_id": "33b4aa2f-cde6-5983-b63d-e791eb9e9629",
+    "target_id": "69ce5049-254f-5cad-b885-9f1adb09a9bb",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/BAAI/bge-large-en-v1.5"
+  },
+  {
+    "id": "e14a77fc-f4e5-5b35-8634-c231f2c6606e",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "39d20c4c-bc11-5e3c-810e-4eb9965f0e48",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3.6-35B-A3B-FP8"
+  },
+  {
+    "id": "0f6ca076-dc90-5a38-b41c-754346ec9fc8",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "c52701cb-cf47-5b7a-9aea-92983a0a3651",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3.5-9B"
+  },
+  {
+    "id": "892b4b59-5d1b-5dc3-8908-bb330217d81e",
+    "source_id": "dc3b57e1-a8c2-5d01-b3a1-b967330bde99",
+    "target_id": "d1a08cc9-6cdd-5a5d-9253-6aa3b441438a",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+  },
+  {
+    "id": "0fcbaf44-0eb8-547f-b4f2-9e318ed1fa9e",
+    "source_id": "81eb8d9f-e80c-5c0f-a084-dcb35ba92369",
+    "target_id": "aa473e57-2c64-5eca-9068-f8d02f2c1310",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/intfloat/multilingual-e5-small"
+  },
+  {
+    "id": "fd1d4735-311c-535d-9928-09633ecf38bc",
+    "source_id": "bc7c982d-5246-56f7-a191-2d6d9cee680a",
+    "target_id": "e3282c08-3f7f-511c-9a0a-e4a2f30e7972",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/hexgrad/Kokoro-82M"
+  },
+  {
+    "id": "96532b34-f4a5-583b-9df2-d3a74b9beb74",
+    "source_id": "33b4aa2f-cde6-5983-b63d-e791eb9e9629",
+    "target_id": "8b8c5092-6a29-5673-b594-d3d2b3c0e5b4",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/BAAI/bge-base-en-v1.5"
+  },
+  {
+    "id": "4430ddd8-fdd1-5805-83a5-430035433a08",
+    "source_id": "6d091e19-1f4b-576a-b9f6-ddb5e5dc694d",
+    "target_id": "c284846f-5325-5030-a56f-636df6273787",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Comfy-Org/stable-diffusion-v1-5-archive"
+  },
+  {
+    "id": "93b89b6c-f7ef-5c0e-accc-50f6fec98268",
+    "source_id": "fe76c089-3ca8-5fce-900f-2f26316ec001",
+    "target_id": "dfeb7717-4fb5-5d29-a780-8a9bb54f83ab",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/nvidia/Qwen3.6-35B-A3B-NVFP4"
+  },
+  {
+    "id": "ebe1c837-a05e-59b2-862a-7c304fabc5b5",
+    "source_id": "cb085ca5-b264-5f1b-a9ef-a24abef8531d",
+    "target_id": "c024f1b6-ee21-5ee9-b988-4719632563b9",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/argmaxinc/whisperkit-coreml"
+  },
+  {
+    "id": "db86c296-4c79-58b7-84e9-4408e7f3559d",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "f5a05dea-0bc1-5c17-be99-a5b670f1b585",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen2.5-7B-Instruct"
+  },
+  {
+    "id": "f1f1d491-d9a1-5eed-85f4-e7cebb85455f",
+    "source_id": "87355764-79c8-5328-ae8b-bbf3d59c3043",
+    "target_id": "3e3d7d94-d13d-5809-82a7-57a86eff172d",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/timm/efficientnet_b3.ra2_in1k"
+  },
+  {
+    "id": "31d105cc-c18a-563b-9623-fe7657a6d844",
+    "source_id": "7df2fa29-16d9-5cb1-9413-618c2924a1e7",
+    "target_id": "34137a78-e7d6-5062-a526-6e4455a2b8fa",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/FacebookAI/roberta-base"
+  },
+  {
+    "id": "64ac12ee-653d-5bcc-a669-860278ac8973",
+    "source_id": "c9f595d6-dba0-5bc7-a279-744a9e323d3c",
+    "target_id": "3e4e56fb-6f39-5246-b2d1-6f80ab0d5f3d",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
+  },
+  {
+    "id": "787d7df6-17f3-5c14-a7e2-cc1b1f05edbd",
+    "source_id": "2e79c829-07b5-56b0-bae2-656c8cf2da18",
+    "target_id": "aa5789bc-d723-5869-8715-77d2ad6815db",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  },
+  {
+    "id": "d35b80aa-1d94-5920-9797-3bd7dd00b8ef",
+    "source_id": "e8cb07d8-db64-59c1-b190-f3fd70275a0c",
+    "target_id": "84e049a1-94cb-5bde-b489-96b00faaea95",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Bingsu/adetailer"
+  },
+  {
+    "id": "1ceca209-3b56-51ec-a608-252801273502",
+    "source_id": "099101a4-4e89-5767-8b6b-b37dc2cded8b",
+    "target_id": "d961c796-ddfd-5457-8719-d73d790de500",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/pyannote/speaker-diarization-3.1"
+  },
+  {
+    "id": "2cb72f75-8d66-580a-ad11-5b809287ca46",
+    "source_id": "7df2fa29-16d9-5cb1-9413-618c2924a1e7",
+    "target_id": "cef46b71-a55e-51bc-a0f3-fb94ac2f116f",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/FacebookAI/roberta-large"
+  },
+  {
+    "id": "00d5d62b-dd1d-5252-8353-edaeca838054",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "5200f346-be78-540e-b9c8-d8cea27ba809",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3.6-27B-FP8"
+  },
+  {
+    "id": "c78c970d-3231-5a22-ae0e-2ee57c67b00b",
+    "source_id": "a428d009-73e9-56dc-a7e1-a781c162656c",
+    "target_id": "7a3d8b8e-25b0-51c5-ba2e-f026c1835236",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/google/gemma-4-31B-it"
+  },
+  {
+    "id": "40fabc02-1ba5-5ee2-a2da-3ab1b26ebb42",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "b5d68b76-bb52-5e73-b39c-4eeeba097291",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen2.5-VL-7B-Instruct"
+  },
+  {
+    "id": "b789f02c-e8f1-5128-b75e-0a55efac6b86",
+    "source_id": "a428d009-73e9-56dc-a7e1-a781c162656c",
+    "target_id": "5c6488e0-af81-5814-8e21-41ae54c546f9",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/google/gemma-4-26B-A4B-it"
+  },
+  {
+    "id": "a6d312c5-74fb-5078-a12e-4c3a930a5f9f",
+    "source_id": "5c128aaf-09f8-554d-8d23-a437dfc59f29",
+    "target_id": "6e7b31ae-811a-54d1-94e0-3db5d0ae1f5e",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/laion/clap-htsat-fused"
+  },
+  {
+    "id": "a2a2ca2f-2135-5e4c-bf53-1d77b10387bf",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "5461905e-976c-53a8-b829-923041e87535",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct"
+  },
+  {
+    "id": "cbd1a5bb-4168-55a5-89fe-1ae2f0f6d76b",
+    "source_id": "20c073dc-a442-58ca-a4d8-10ac72da809c",
+    "target_id": "af43a5de-7540-5755-8694-15e8c85e2b9c",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/coqui/XTTS-v2"
+  },
+  {
+    "id": "1812f78a-494f-584d-be52-d6aecb620815",
+    "source_id": "49abf398-d68b-5355-9ee7-946256ffb8c9",
+    "target_id": "5afbdd31-c817-5b70-8ee0-01732e6757d0",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/facebook/contriever"
+  },
+  {
+    "id": "489ecf63-3684-5038-bb05-b9531227d5de",
+    "source_id": "dc3b57e1-a8c2-5d01-b3a1-b967330bde99",
+    "target_id": "0cd26243-4446-5d32-b232-51f7ecb2d505",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/unsloth/Qwen3.8-27B-GGUF"
+  },
+  {
+    "id": "3d4b64c5-50bc-5715-ac63-b2ba654905d7",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "cb1070c6-1043-58d0-891a-1fc1a02fb134",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3.5-4B"
+  },
+  {
+    "id": "d552eb43-98aa-5b8a-b5f5-4181d8f52122",
+    "source_id": "c0e0e58c-7e35-5ab0-8852-df31d7125ddf",
+    "target_id": "6b0d2c97-d3e3-58c9-ab68-e2af778e7303",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/openai/whisper-large-v3-turbo"
+  },
+  {
+    "id": "77f3f181-b930-5b27-8b06-f1db3836922a",
+    "source_id": "81eb8d9f-e80c-5c0f-a084-dcb35ba92369",
+    "target_id": "96aaa95d-1218-5f02-9616-a0692d26bb84",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/intfloat/multilingual-e5-large"
+  },
+  {
+    "id": "22dbf82c-6630-5ad5-9ca3-6fdcda015d49",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "e850811e-6d54-5c04-a052-d687735b8451",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen2.5-3B-Instruct"
+  },
+  {
+    "id": "41a9ed03-cae5-5d0d-8957-c9d53cbdd870",
+    "source_id": "a0f6c959-a98e-5985-a66f-1bb31544f63a",
+    "target_id": "80a407f7-df6a-551a-aa5c-7db5c5e1d188",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/meta-llama/Llama-3.2-1B-Instruct"
+  },
+  {
+    "id": "44791640-4331-54dc-8a56-1fedf284b433",
+    "source_id": "8f991f1f-264b-53c7-8a00-04215b451522",
+    "target_id": "f7f2d17b-4b24-58c3-81ca-f6226d77bea0",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/cross-encoder/ms-marco-MiniLM-L4-v2"
+  },
+  {
+    "id": "132cc169-3b8b-58e3-a684-a933432a5efd",
+    "source_id": "c52697d8-c990-5f35-a116-7e3732876d7d",
+    "target_id": "8530888b-1518-5574-9cc4-b59368dd2c81",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/autogluon/chronos-bolt-small"
+  },
+  {
+    "id": "47189985-6aa9-578f-9305-309d0f379e7c",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "449ceb3d-f2b6-5c28-bee6-9b98c049ba68",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B"
+  },
+  {
+    "id": "ef0d9e0a-b592-5e88-9a61-8dfaddbff497",
+    "source_id": "3b645daf-9dcb-5f77-95e9-ff5f4fb80734",
+    "target_id": "a0a09a48-aace-5371-9c96-8fe3cedc6a2e",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/distilbert/distilbert-base-uncased"
+  },
+  {
+    "id": "6f5f05ed-e819-5dc5-a766-a4c98c494278",
+    "source_id": "bce14045-8c98-50f7-a271-88800fc38a73",
+    "target_id": "096b07f1-66ed-5f3b-a758-49ceecaf1423",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/farbodtavakkoli/OTel-2.0-LLM-31B-IT"
+  },
+  {
+    "id": "9099ce9b-8165-5efc-8045-7040a80b21ea",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "76a68406-b277-5436-aed6-cffae5c7ec70",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen2.5-0.5B-Instruct"
+  },
+  {
+    "id": "6f5fa08d-ec33-54a2-ba5a-5209679773c4",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "9cb170e3-2751-54ba-86c9-a1bc1a049985",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3-VL-8B-Instruct"
+  },
+  {
+    "id": "340c731d-6cc3-5c32-a427-14495faccb9f",
+    "source_id": "c0e0e58c-7e35-5ab0-8852-df31d7125ddf",
+    "target_id": "e8a6eccd-e16d-5469-96ce-6b0775eba7cd",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/openai/gpt-oss-20b"
+  },
+  {
+    "id": "2e5a9915-6833-55d9-8f74-c4b53bcab193",
+    "source_id": "6d091e19-1f4b-576a-b9f6-ddb5e5dc694d",
+    "target_id": "52170e44-5eeb-5855-a11e-61ad06f66c21",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Comfy-Org/z_image_turbo"
+  },
+  {
+    "id": "cd5d1a93-b902-5bde-a8ca-fb8b73d8167b",
+    "source_id": "099101a4-4e89-5767-8b6b-b37dc2cded8b",
+    "target_id": "3792b44f-a455-5c64-8aa9-0688ab43508a",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/pyannote/wespeaker-voxceleb-resnet34-LM"
+  },
+  {
+    "id": "9aa9216c-8366-5b50-add9-e85157c9b0a7",
+    "source_id": "81eb8d9f-e80c-5c0f-a084-dcb35ba92369",
+    "target_id": "66624d80-3fd2-57c2-b941-e76c5884cd9f",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/intfloat/multilingual-e5-base"
+  },
+  {
+    "id": "b971ac1b-1b5d-5648-8e47-2311ee88f1c8",
+    "source_id": "c0e0e58c-7e35-5ab0-8852-df31d7125ddf",
+    "target_id": "503e5c9b-668d-52fe-8800-22a71ca711c5",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/openai/clip-vit-large-patch14"
+  },
+  {
+    "id": "9c24672b-7dc6-52c4-8663-b1ddd3083b1f",
+    "source_id": "b6900281-bb21-5f85-8191-512d9f86403f",
+    "target_id": "7f33fe1c-c383-5805-8d6e-5306be06870e",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/amazon/chronos-bolt-small"
+  },
+  {
+    "id": "138813d6-d634-580a-b6a6-7096f4c09bbd",
+    "source_id": "a0f6c959-a98e-5985-a66f-1bb31544f63a",
+    "target_id": "644f75eb-ead6-5840-bf87-de6c85116b75",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/meta-llama/Llama-3.1-8B-Instruct"
+  },
+  {
+    "id": "5ff543c9-7292-54bb-b213-5def6a0e4157",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "a366fc1f-b586-5887-a4c8-d92412e316f9",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3.6-27B"
+  },
+  {
+    "id": "0234e65f-0539-5f8c-9030-b29aafb1d94b",
+    "source_id": "099101a4-4e89-5767-8b6b-b37dc2cded8b",
+    "target_id": "f0ec0c4e-74d4-58a8-869b-ae154973eac9",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/pyannote/segmentation-3.0"
+  },
+  {
+    "id": "dff45ff0-4426-5ec0-bcf9-e4abbdaa1800",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "7b18a348-73f1-5fec-8fb8-164f779e4ae0",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen3.6-35B-A3B"
+  },
+  {
+    "id": "4283f079-1914-548c-8980-4926e8194822",
+    "source_id": "7fab66a8-13ce-554b-bd4e-76441c61a753",
+    "target_id": "def75660-2d20-59d5-875c-e3118b720073",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/ibm-granite/granite-embedding-small-english-r2"
+  },
+  {
+    "id": "b5e0d650-0ee8-5be9-8d59-e26132c54e82",
+    "source_id": "c0e0e58c-7e35-5ab0-8852-df31d7125ddf",
+    "target_id": "ba0ba8c7-4a73-5f4f-adbb-805d54f9b2ed",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/openai/gpt-oss-120b"
+  },
+  {
+    "id": "87ae196d-b3d1-5e30-a21b-7378c45311b1",
+    "source_id": "099101a4-4e89-5767-8b6b-b37dc2cded8b",
+    "target_id": "f7f120a9-67a4-5f35-ad77-f6267779707a",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/pyannote/speaker-diarization-community-1"
+  },
+  {
+    "id": "9a7af9eb-99b4-5698-9041-1a3b1c6946d5",
+    "source_id": "70187c51-ddeb-5296-a429-49c3ccc93d77",
+    "target_id": "ed747967-a8ec-57d9-85dc-99f91542d8b5",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/answerdotai/ModernBERT-base"
+  },
+  {
+    "id": "80358fcb-7ee4-573b-98f9-ef4816f63ef6",
+    "source_id": "d95d4673-2ad5-5ace-86a0-8e9665874442",
+    "target_id": "797e9203-cf46-5d08-be74-6d68ba7bb3ab",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Qwen/Qwen2.5-VL-3B-Instruct"
+  },
+  {
+    "id": "a2168c2c-ab02-54fa-b76b-cc4ae4ae57ef",
+    "source_id": "a428d009-73e9-56dc-a7e1-a781c162656c",
+    "target_id": "d258ba11-098d-5ae1-b88f-a9b90dfc08b4",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/google/gemma-4-E4B-it"
+  },
+  {
+    "id": "9369c33e-b1ca-50ee-82a6-d54632127ba7",
+    "source_id": "42e26d72-5923-5032-a114-417a0e9f8d77",
+    "target_id": "db47f466-f884-59a5-b4a6-eb514449eb15",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/MiniMaxAI/MiniMax-H3"
+  },
+  {
+    "id": "ef254d6b-1923-5d58-af59-978d38a40df8",
+    "source_id": "6d091e19-1f4b-576a-b9f6-ddb5e5dc694d",
+    "target_id": "b89d976a-b5fb-54cc-bf55-32b295c64699",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/Comfy-Org/Wan_2.2_ComfyUI_Repackaged"
+  },
+  {
+    "id": "d965428b-09c5-50a1-8eea-2a951700c908",
+    "source_id": "d8729132-1486-593f-b545-fc9d658d0b1f",
+    "target_id": "7551ee83-e99c-5fe9-825c-668b61bfdca4",
+    "relationship_type": "develops_model",
+    "confidence": 0.9,
+    "evidence": "Model author matches company",
+    "evidence_source": "https://huggingface.co/api/models/ProsusAI/finbert"
+  }
+]

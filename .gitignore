@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific data directories
+data/raw/
+data/processed/
+
+# Keep data/final
+!data/final/
+!data/final/*.json
+
+# Testing
+.pytest_cache/
